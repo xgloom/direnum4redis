@@ -1,6 +1,7 @@
 # DirEnum4Redis
-_A simple script to find directories in Redis.
-This was built by modifying [n0b0dyCNs implementation](https://github.com/n0b0dyCN/redis-rogue-server); which uses raw sockets to interact with Redis._ 
+_A simple script to find directories in Redis._
+
+This script was built by modifying [n0b0dyCNs implementation](https://github.com/n0b0dyCN/redis-rogue-server); which uses raw sockets to interact with Redis. 
 
 ## Requirements
 Python 3.6+
